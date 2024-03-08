@@ -1,3 +1,28 @@
+# Nuxt 3 Starter
+
+## Features
+
+- Nuxt3
+- Tailwind CSS
+- State management with Pinia
+- Custom authentication store via use-auth
+- Internationalization via @nuxtjs/i18n
+- Api management using Repository Pattern
+
+## Directory Structure
+
+```bash
+├── apps # Nuxt Layer
+│ └── index # Home Page
+├── components # Global Components
+├── layouts # Layouts
+├── plugins # Plugins
+├── stores # Stores
+├── services # Api management
+├── shared # Constants
+├── utils # Utils
+```
+
 # How to use
 
 ## Setup
