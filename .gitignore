@@ -19,6 +19,7 @@ logs
 .idea
 
 package-lock.json
+yarn.lock
 
 # Local env files
 .env
